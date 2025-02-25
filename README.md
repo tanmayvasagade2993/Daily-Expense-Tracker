@@ -1,5 +1,5 @@
 # Daily-Expense-Tracker
-# DailyExpenseTracker
+
 An expenditure tracker to keep track of personal finance expenses spend on daily basis.
 This project is a Daily Expense Tracker built using NetBeans for the development environment and SQL for the database. It helps users manage and track their daily expenses, categorize them, and analyze their spending habits.
 
